@@ -39,29 +39,26 @@
         }
     },
 
-    "harvard": {
-        "logoUrl": "images/places/logo-harvard.png",
+    "itm": {
+        "logoUrl": "images/places/logo-ITM.jpeg",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "Harvard University"},
-            "es": {"name": "Universidad de Harvard"},
-            "fr": {"name": "Université Harvard"},
-            "zh": {"name": "哈佛大学"}
+            "en": {"name": "ITM University"},
+            "es": {"name": "Institución Universitaria ITM"}
+            
         }
     },
 
-    "paris": {
+    "eafit": {
         "logoUrl": "images/places/logo-paris-university.png",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "University of Paris"},
-            "es": {"name": "Universidad de París"},
-            "fr": {"name": "Université de Paris"},
-            "zh": {"name": "巴黎大学"}
+            "en": {"name": "EAFIT University"},
+            "es": {"name": "Universidad EAFIT"}
         }
     },
 
-    "udacity": {
+    "mintic": {
         "logoUrl": "images/places/logo-udacity.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
@@ -69,7 +66,7 @@
         }
     },
 
-    "uxStudio": {
+    "censa": {
         "logoUrl": "images/places/logo-ux-studio.png",
         "faIcon": "fas fa-paint-brush",
         "locales": {

@@ -24,7 +24,7 @@
     "items": [
         {
             "id": "experience_item_1",
-            "place": "@link{places.uxStudio}",
+            "place": "@link{places.censa}",
             "period": ["2015/01", "2017/12"],
             "locales": {
                 "en": {
