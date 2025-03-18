@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/) by Ryan Balieiro
 
 This theme has a simple and clean layout designed for creating user-friendly resumes or CV landing pages. It's built using Vue 3.0 (Composition API) and Bootstrap 5, presenting a cohesive one-page layout that blends functionality and aesthetics.
@@ -255,6 +254,3 @@ It's based on the [Bootstrap](https://getbootstrap.com/) framework created by Ma
 
 Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE) license, providing complete freedom for utilization. Feel free to enhance and adapt it to suit your needs.
 =======
-# dpinzonportfolio
-Diego Pinzon Full Stack Web Developer Portfolio
->>>>>>> 9a3341702312401cb392996dfe77c4ce67b6f003
